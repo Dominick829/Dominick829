@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm Dominick. I am an Information Technology Professional.
 
-<!--
-**Dominick829/Dominick829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below are my IT projects for your learning pleasure!
+Introduction to the Command Prompt and its many commands, as well as other programs on your device, you may not have heard of or know how to use.
+-
+_________________________________________________________________________________________________________________________________________________
+Microsoft Azure:
+Introduction to Microsoft Azure (Exploring Microsoft Azure's services and how to create resource groups and Virtual Machines)
+-
+How to access your virtual machines on Microsoft Azure
+-
+_______________________________________________________________________________________________________________________________
+Introduction to Wireshark and how to utilize the program
+-
