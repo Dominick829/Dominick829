@@ -1,6 +1,6 @@
-Hello, I'm Dominick. I am an Information Technology Professional.
+Hello, I'm Dominick. I am an Information Technology Professional.👋
 
-Below are my IT projects for your learning pleasure!
+Below are my IT projects for your learning pleasure!👇
 
 Introduction to the Command Prompt and its many commands, as well as other programs on your device, you may not have heard of or know how to use.
 -
