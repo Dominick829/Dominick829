@@ -13,9 +13,14 @@ ________________________________________________________________________________
 Microsoft Azure:
 
 Introduction to Microsoft Azure (Exploring Microsoft Azure's services and how to create resource groups and Virtual Machines)
+
 -
+
 How to access your virtual machines on Microsoft Azure
+
 -
 _______________________________________________________________________________________________________________________________
+
 Introduction to Wireshark and how to utilize the program
+
 -
