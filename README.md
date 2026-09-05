@@ -21,6 +21,6 @@ How to access your virtual machines on Microsoft Azure
 -
 _______________________________________________________________________________________________________________________________
 
-Introduction to Wireshark and how to utilize the program
+Introduction to network building and subnetting/network communication.
 
 -
