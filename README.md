@@ -18,7 +18,7 @@ Introduction to Microsoft Azure (Exploring Microsoft Azure's services and how to
 
 How to access your virtual machines on Microsoft Azure
 
--
+-https://github.com/Dominick829/How-to-access-your-virtual-machines-in-Microsoft-Azure
 _______________________________________________________________________________________________________________________________
 
 Introduction to network building and subnetting/network communication.
